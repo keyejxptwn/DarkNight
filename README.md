@@ -45,8 +45,6 @@ AppCompatDelegate.getDefaultNightMode();//获取当前显示的模式
 AppCompatDelegate.setDefaultNightMode(mode == MODE_NIGHT_YES ? MODE_NIGHT_NO : MODE_NIGHT_YES);
 ```
 ### 以上就是简单设置深色模式的方法，欢迎指正，提出建议
-![浅色][2]![深色][3]
+
 
   [1]: https://developer.android.com/reference/androidx/appcompat/app/AppCompatDelegate
-  [2]: https://github.com/keyejxptwn/DarkNight/blob/master/pic/MuMu20200416220549.png
-  [3]: https://github.com/keyejxptwn/DarkNight/blob/master/pic/MuMu20200416220554.png
