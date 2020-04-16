@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DarkNight</string>
+    <string name="text_night">切换深色模式</string>
+    <string name="text_light">切换浅色模式</string>
+</resources>
