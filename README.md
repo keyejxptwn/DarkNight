@@ -41,8 +41,5 @@ AppCompatDelegate.getDefaultNightMode();//获取当前显示的模式
 AppCompatDelegate.setDefaultNightMode(mode == MODE_NIGHT_YES ? MODE_NIGHT_NO : MODE_NIGHT_YES);//切换深色模式和关闭
 ```
 ### 以上就是简单设置深色模式的方法，欢迎指正，提出建议      
-aaaaaaaaaa
-asdasdasdasdasdasdasdas dasdas
-sdasd adasdas 
 
   [1]: https://developer.android.com/reference/androidx/appcompat/app/AppCompatDelegate
